@@ -22,13 +22,13 @@ loaded via a namespace (and not attached):
 
 
 1.delete line 251-258 in Introduction.Rmd(can't fix it)
-  Quitting from lines 251-258 (Introduction.Rmd) 
-  Error: package 'translations' does not have a namespace
-  Execution halted
-  Error in Rscript_render(f, render_args, render_meta) : 
-  Failed to compile Introduction.Rmd
-  Calls: <Anonymous> ... render_book -> render_new_session -> Rscript_render
-  Execution halted
+  Quitting from lines 251-258 (Introduction.Rmd)  
+  Error: package 'translations' does not have a namespace 
+  Execution halted 
+  Error in Rscript_render(f, render_args, render_meta) :  
+  Failed to compile Introduction.Rmd 
+  Calls: <Anonymous> ... render_book -> render_new_session -> Rscript_render 
+  Execution halted 
 
 Exited with status 1.
 

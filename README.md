@@ -33,7 +33,11 @@ loaded via a namespace (and not attached):
 Exited with status 1.
 2.download all package this project needs
   some packages should be downloaded through github(see what reader says in some Rmd files)
+  
 3.rtools path should be added to system path 
+
 4.download font inconsolata
+
 5.undate pandoc in R
+
 6.download MiKTeX

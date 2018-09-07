@@ -31,6 +31,7 @@ loaded via a namespace (and not attached):
   Execution halted
 
 Exited with status 1.
+
 2.download all package this project needs
   some packages should be downloaded through github(see what reader says in some Rmd files)
   
